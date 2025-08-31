@@ -1,0 +1,4 @@
+# Sui Move build & package artifacts
+build/
+.package-metadata.json
+Move.lock
