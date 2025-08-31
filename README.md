@@ -39,15 +39,6 @@ This project is designed to help you get started with Sui, a cutting-edge blockc
 
 ---
 
-## 🛠️ Technologies Used
-
-- [Sui](https://sui.io/)
-- [TypeScript](https://www.typescriptlang.org/) / [JavaScript](https://developer.mozilla.org/docs/Web/JavaScript)
-- [Node.js](https://nodejs.org/)
-- *Other tools as needed*
-
----
-
 ## 🤝 Contributing
 
 Want to make this even better?  
